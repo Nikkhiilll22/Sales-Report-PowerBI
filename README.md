@@ -28,8 +28,7 @@ The report enables users to:
 ---
 
 ## 📊 Visuals & Insights
-*(Optional: add screenshots here)*  
-Example:
+
 ```bash
 Report_Screenshots/
-![Sales Dashboard Overview](Sales-Report-PowerBI/Screenshot 2025-10-21 160314.png)
+![Sales Dashboard Overview](Screenshot 2025-10-21 160314.png)
