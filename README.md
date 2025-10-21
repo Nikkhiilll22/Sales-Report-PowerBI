@@ -3,6 +3,9 @@
 ## 🧾 Overview
 This repository contains a Power BI report titled **"Sales Report"**, designed to provide insights into sales performance, trends, and key business metrics.
 
+Report_Screenshots
+![Sales Dashboard Overview](Report_Screenshots/Screenshot%202025-10-21%20160314.png)
+
 The report enables users to:
 - Analyze total sales and revenue over time  
 - Compare performance by region, product, and category  
@@ -16,6 +19,7 @@ The report enables users to:
 |------------|-------------|
 | `Sales Report (1).pbix` | Power BI report file containing data model, visualizations, and measures |
 | `README.md` | This file — provides documentation and overview |
+| `Report_Screenshots` | This file — provide Screenshot for the report|
 
 ---
 
@@ -25,10 +29,6 @@ The report enables users to:
 - Custom DAX measures for accurate KPI calculation  
 - Trend analysis across multiple dimensions  
 
----
 
-## 📊 Visuals & Insights
 
-```bash
-Report_Screenshots/
-![Sales Dashboard Overview](Screenshot 2025-10-21 160314.png)
+
