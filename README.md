@@ -1,7 +1,7 @@
 # 📊 Sales Report — Power BI Dashboard
 
 ## 🧾 Overview
-This repository contains a Power BI report titled **"Sales Report"**, designed to provide insights into sales performance, trends, and key business metrics.
+This repository contains a Power BI report titled **"Sales Report"** designed to provide insights into sales performance, trends, and key business metrics.
 
 Report_Screenshots
 ![Sales Dashboard Overview](Report_Screenshots/Screenshot%202025-10-21%20160314.png)
